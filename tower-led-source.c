@@ -441,7 +441,7 @@ void terceros50s() {
   delay(1000);
    nivel9();
   delay(1000);
-   nive111();
+   nivel11();
   delay(1000);
    nivel9();
   delay(1000);
@@ -596,7 +596,7 @@ void cuartos50s() {
   delay(1000);
   nivel10();
   delay(1000);
-  nive111();
+  nivel11();
   delay(1000);
   nivel11();
   delay(1000);
